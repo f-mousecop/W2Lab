@@ -6,6 +6,13 @@ public class Main {
 
     //TIP Hello
     static void main() {
-        IO.println(Triangle.isTriangle(1, 2, 3));
+        IO.println(Triangle.isTriangle(1,1,1));
+
+        String name = UserInput.readName();
+        int age = UserInput.readAge();
+
+        SomethingSomething something = new SomethingSomething(name, age);
+
+        IO.println(something.getName() + " " + something.getAge());
     }
 }

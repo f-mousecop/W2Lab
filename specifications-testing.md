@@ -7,10 +7,10 @@
 1. Understand the requirement
 2. Explore the program
 3. Identify the partitions
-4. Analyze the boundries
+4. Analyze the boundaries
 5. Devise test cases
 6. Automate test cases
-7. Augment (crativity and experience).
+7. Augment (creativity and experience).
 
 # Ch 3 Structural testing
 
@@ -36,7 +36,7 @@
 ## Pre/post conditions
 
 **pre-conditions**: what the method needs to function properly
-**post-conditions**: what the method guarentees as outcomes
+**post-conditions**: what the method guarantees as outcomes
 
 ### TaxCalculator example
 
